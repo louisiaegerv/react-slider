@@ -7,7 +7,7 @@ import About from './components/About'
 
 const App = () => {
   return (
-    <div>
+    <>
       <Router>
         <Navbar />
         <div className='container'>
@@ -24,7 +24,7 @@ const App = () => {
           </Switch>
         </div>
       </Router>
-    </div>
+    </>
   )
 }
 

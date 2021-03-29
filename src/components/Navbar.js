@@ -7,7 +7,7 @@ const Navbar = () => {
       <Link to='/'>
         <p className='nav-title'>
           <span className='nav-title-icon'>⚛️</span>
-          React Starter Template
+          React Slider
         </p>
       </Link>
       <div className='nav-links'>
